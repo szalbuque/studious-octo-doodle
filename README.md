@@ -1,2 +1,4 @@
 # studious-octo-doodle
-Para testes durante aula de git
+Bem vindo a studious-octo-doodle :tada:
+
+O repositório onde conhecemos mais sobre como desenhar um polvo.
